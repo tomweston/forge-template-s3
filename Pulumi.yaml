@@ -1,5 +1,5 @@
-name: ${PROJECT}
-description: ${DESCRIPTION}
+name: forge-template-s3
+description: Forge Template - S3 Bucket
 runtime: go
 template:
   description: Forge Template - S3 Bucket
